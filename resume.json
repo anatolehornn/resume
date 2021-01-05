@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "theme": "spartan"
+  },
+  "basics": {
+    "name": "Anatole Hornn",
+    "label": "Full Stack Dev & Indie Hacker",
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEOODG7bbvkmw/profile-displayphoto-shrink_400_400/0/1605911284196?e=1615420800&v=beta&t=GImaqSZEKcaMdBjysdGOJxJeStY19Z2CjjAY9i14lCI",
+    "summary": "I’m a Agile Technologist, Indie Hacker automate using Code and No-Code, 10+ years, worked for 18+ websites, some with million listings. Worldwide remotely on flexible hours.",
+    "website": "http://wildiamond.free.fr",
+    "email": "anatole.hornn@gmail.com",
+    "location": {
+      "city": "75019 Paris",
+      "countryCode": "FR"
+    },
+    "profiles": [
+      {
+        "url": "https://www.linkedin.com/in/anatole-hornn/",
+        "username": "anatole-hornn",
+        "network": "LinkedIn"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2010",
+      "startDate": "2008",
+      "area": "Création & Édition Numériques",
+      "studyType": "Master",
+      "institution": "Université Vincennes Saint-Denis (Paris VIII)",
+      "courses": [
+        "interactive design",
+        "digital creation and edition",
+        "web semantic",
+        "web design",
+        "multimedia interface design",
+        "multimodal interface",
+        "interfaces semiotic",
+        "sensoriality in creation hypermedia",
+        "collaborative design project",
+        "project coordination and management",
+        "innovations and technology forecasting"
+      ]
+
+    },
+    {
+      "endDate": "2008",
+      "startDate": "2004",
+      "area": "Sciences & Technologies, Computer Science",
+      "studyType": "Licence",
+      "institution": "Université Pierre & Marie Curie (Paris VI)",
+      "courses": [
+        "algoritmic",
+        "paradigms",
+        "design patterns",
+        "object-oriented programming",
+        "recursive programmning",
+        "functional programming",
+        "imperative programming",
+        "data types and structures",
+        "databases",
+        "networks",
+        "system administration",
+        "artificial intelligence",
+        "image processing by command line"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "summary": "Countese is the fastest way to find your Certified Public Accountant in France, under 30 seconds to find among 23 000 independant CPAs in France",
+      "website": "https://countese.com/",
+      "company": "Countese, 75019 Paris",
+      "location": "75019 Paris",
+      "position": "INDIE HACKER freelancer",
+      "startDate": "2019-06",
+      "highlights": [
+        "as a developer, diving in the entrepreneurship reveal the good and limits, that push me to be another one stronger doer. Exciting to get contact with prospects, talk to clients, automate, build product, manage advertising on social network, develop community, test and learn in a fast pace to bring to the client what they want and need",
+        "with react, nextjs, sketch, typeform, zapier, integromat, airtable, pipedrive, meetalfred, linkedin sales navigator, elastic, auth0, aws, serverless framework, nodejs, elastic, mapbox and more"
+      ]
+    },
+    {
+      "summary": "Ever Rocks is my consulting firm. I have already companies who wants to work with me but i preferred take time to create my company well before to start",
+      "website": "https://www.linkedin.com/company/ever-rocks",
+      "company": "Ever Rocks, 75019 Paris",
+      "location": "75019 Paris",
+      "position": "SENIOR JAVASCRIPT DEVELOPER freelancer",
+      "startDate": "2018-08",
+      "highlights": [
+        "Bnp Paribas Cib"
+      ]
+    },
+    {
+      "summary": "Bnp Paribas Corporate and Institutional Banking (Cib) is the global investment banking arm of Bnp Paribas",
+      "pinned": true,
+      "company": "Bnp Paribas Cib, 75019 Paris",
+      "website": "https://cib.bnpparibas.com",
+      "location": "75019 Paris",
+      "position": "SENIOR JAVASCRIPT DEVELOPER freelancer",
+      "startDate": "2018-11",
+      "endDate": "2019-05",
+      "highlights": [
+        "design, develop, estimate complexity, a app search-newsfeed, internal product with react, styled-component",
+        "migrate doc translation app within another text translate app , design and evolve the app",
+        "with react, redux, styled-components, sketch, webpack, git, docker, jenkins, linux"
+      ]
+    },
+    {
+      "highlights": [
+        "technical pillar and scrum master with 6 teammates supported by activity dashboards",
+        "evolve flow between Marketing, Product, Tech teams, multiplied by 3 the velocity team, aims to cut delay with collaborative conception and estimation with teams, do participative members with sprint planning, story pointing, poker planning, refinement backlog, daily point 15minutes max, retrospective, push the creativity, eliminate all interferences",
+        "maintain and improve the all entire first version of the web-app",
+        "place gitflow, yarn, angular4, lean startup practice, tech lunchs, evolve and warrantor of the scrum",
+        "with angular4, angular1.5, webpack, typescript, bootstrap, sass, pug, drupal7, git, jenkins"
+      ],
+      "pinned": true,
+      "summary": "Now, La Maison Saint-Gobain, is the brand of Saint-Gobain that support you in the realisation of your work house",
+      "website": "https://homly-you.com",
+      "location": "75019 Paris",
+      "company": "Homly You - Saint Gobain, 75019 Paris",
+      "position": "LEAD DEVELOPER permanent",
+      "startDate": "2016-09",
+      "endDate": "2018-08"
+    },
+    {
+      "highlights": [
+        "developed core pages, tracked all behavior in the app with mixpanel, implemented c.r.u.d, create migrations between database and models",
+        "added gulp, stylus, ui-components practice on workflow",
+        "maintained app on demand of customer succes team",
+        "with git, angular 1.x, backbone, npm, grunt, gulp, stylus, twitter bootstrap, laravel, composer, eloquent, php, mysql, wordpress"
+      ],
+      "summary": "A single software to manage your reservations, click and collect, your website, customer reviews, your digital menus and your customer file",
+      "website": "https://www.zenchef.com",
+      "company": "Zenchef, 75002 Paris",
+      "position": "FULL STACK DEVELOPER permanent",
+      "location": "75002 Paris",
+      "startDate": "2015-06",
+      "endDate": "2016-05"
+    },
+    {
+      "highlights": [
+        "developed for 5 websites, all pages, components and modules with good practices of architecture, performance, sustainability on javascript, html, css",
+        "tracked data with adobe omniture",
+        "with jenkins, yeoman, yo, bower, grunt, git, html, sass, javascript, macro-api"
+      ],
+      "summary": "Since more than 25 year, The SeLoger Group puts all its real estate expertise at the service of the French people, so that they can carry out all their real estate projects with peace of mind",
+      "website": "https://www.groupeseloger.com/",
+      "company": "SeLoger, 75018 Paris",
+      "location": "75018 Paris",
+      "position": "WEB DEVELOPER permanent",
+      "endDate": "2015-05",
+      "startDate": "2013-06"
+    },
+    {
+      "highlights": [
+        "improved pages, search and map",
+        "with git, html, css, javascript, api google map, php, mysql"
+      ],
+      "summary": "YoupiJob, now Yoojo, improve people's daily lives, by making home services accessible",
+      "website": "https://youpijob.com",
+      "pinned": true,
+      "company": "YoupiJob, 75009 Paris",
+      "location": "75009 Paris move to another region",
+      "position": "WEB DEVELOPER permanent",
+      "startDate": "2012-11",
+      "endDate": "2012-12"
+    },
+    {
+      "highlights": [
+        "implemented for 3 websites, front pages, with cross-browser compatibilily",
+        "helped on designing",
+        "created skins, icons, pictograms",
+        "managed newsletters",
+        "with svn, html, css, photoshop, zend, php, mysql"
+      ],
+      "summary": "Dalenys, previously Rentabiliweb, is a specialist of audience monetization, B2B, B2C",
+      "website": "http://dalenys.com",
+      "company": "Dalenys, 92300 Levallois-Perret",
+      "location": "92300 Levallois-Perret",
+      "position": "WEB DEVELOPER, INTEGRATOR permanent",
+      "startDate": "2012-09",
+      "endDate": "2011-04"
+    },
+    {
+      "highlights": [
+        "redesigned, integrated entire front-end",
+        "developed and improved features",
+        "with smarty, php, mysql, javascript, html, css"
+      ],
+      "summary": "Date meeting startup",
+      "company": "Nid2love, 75002 Paris",
+      "location": "75002 Paris",
+      "website": "https://nid2love.fr",
+      "position": "WEB DEVELOPER, WEB DESIGNER intern",
+      "startDate": "2010-04",
+      "endDate": "2010-08"
+    },
+    {
+      "highlights": [
+        "build a website to publish research results",
+        "analysed and created specificiations with client team",
+        "wrote developer and user documentations",
+        "with php, mysql, html, javascript"
+      ],
+      "summary": "A internal website to publish studies from search teams",
+      "company": "Laboratoire Paragraphe, 93200 Saint-Denis",
+      "location": "93200 Saint-Denis",
+      "website": "https://www.univ-paris8.fr",
+      "position": "WEB DEVELOPER contract",
+      "startDate": "2008-11",
+      "endDate": "2009-05"
+    },
+    {
+      "highlights": [
+        "implemented paypal payment, extended module to vote by sms for Belgium, build webpage",
+        "developed features on account member, created cron jobs to save, back up databases",
+        "with php, mysql, html, css, shell"
+      ],
+      "summary": "Community site in the form of a game for musicians and music fans to evaluate its popularity rating and play on trends such as the stock market",
+      "company": "Zikpot, 75009 Paris",
+      "website": "https://zikpot.fr",
+      "position": "WEB DEVELOPER intern",
+      "endDate": "2008-08",
+      "startDate": "2008-03"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "product market fit",
+        "marketing automation",
+        "lean startup",
+        "scrum"
+      ],
+      "level": "Advanced",
+      "name": "Methods"
+    },
+    {
+      "keywords": [
+        "javascript, jsx, styled components, twitter bootstrap, typescript, ajax, jquery",
+        "react / next",
+        "html, css, scss, stylus, pug, sass",
+        "angular",
+        "yarn, npm, gulp, yo, bower, grunt, yeoman"
+      ],
+      "level": "Master",
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "node, go",
+        "serverless",
+        "aurora aws, mysql",
+        "laravel, composer, eloquent, php"
+      ],
+      "level": "Advanced",
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "wix",
+        "zapier, integromat",
+        "typeform",
+        "airtable",
+        "pipedrive",
+        "webscrapper",
+        "social network ads",
+        "meetAlfred"
+      ],
+      "level": "Advanced",
+      "name": "No Code"
+    },
+    {
+      "keywords": [
+        "sketch",
+        "framer",
+        "adobe illustrator",
+        "adobe photoshop"
+      ],
+      "level": "Advanced",
+      "name": "Design"
+    },
+    {
+      "keywords": [
+        "google map api",
+        "mapbox",
+        "elastic",
+        "uptime",
+        "uptimerobot",
+        "usefathom",
+        "json",
+        "git",
+        "shell",
+        "regular expression"
+      ],
+      "level": "Advanced",
+      "name": "Tools"
+    },
+    {
+      "keywords": [
+        "gitlab ci/cd",
+        "jenkins",
+        "capistrano",
+        "nginx",
+        "vagrant",
+        "apache"
+      ],
+      "level": "Intermediate",
+      "name": "DevOps"
+    },
+    {
+      "keywords": [
+        "zend",
+        "smarty",
+        "drupal",
+        "wordpress",
+        "backbonejs",
+        "svn",
+        "xml",
+        "xslt",
+        "xpath"
+      ],
+      "level": "Intermediate",
+      "name": "Used"
+    },
+    {
+      "keywords": [
+        "aws cognito",
+        "aws amplify",
+        "react native",
+        "vuejs",
+        "nativescript",
+        "docker",
+        "test auto unit and e2e, cypress, testcafe"
+      ],
+      "level": "Intermediate",
+      "name": "Aside"
+    },
+    {
+      "keywords": [
+        "macOS (required)",
+        "linux",
+        "debian",
+        "ubuntu",
+        "fedora",
+        "windows seven",
+        "windows xp"
+      ],
+      "level": "Master",
+      "name": "Systems"
+    },
+    {
+      "keywords": [
+        "webstorm",
+        "phpstorm",
+        "vim",
+        "nano",
+        "notepad++",
+        "sublime",
+        "atom"
+      ],
+      "level": "Master",
+      "name": "Editors"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Themes",
+      "keywords": [
+        "Yoga",
+        "Low waste",
+        "Veganism",
+        "Minimalism",
+        "Open-Source",
+        "Encryption End-to-End",
+        "Privacy",
+        "Blockchain",
+        "Passive revenue"
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Italy",
+        "Croatia",
+        "Spain",
+        "Portugal",
+        "Marrakech",
+        "San Francisco",
+        "Sri Lanka",
+        "Tokyo",
+        "Kyoto",
+        "Osaka",
+        "New York",
+        "Miami",
+        "Egypt",
+        "Corsica",
+        "London",
+        "Barcelona",
+        "Djerba",
+        "Mallorca",
+        "France"
+      ]
+    }
+  ],
+  "references": [{
+    "name": " ",
+    "reference": "AVAILABLE UPON REQUEST"
+  }]
+}
