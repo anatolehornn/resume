@@ -8,7 +8,7 @@
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEOODG7bbvkmw/profile-displayphoto-shrink_400_400/0/1605911284196?e=1615420800&v=beta&t=GImaqSZEKcaMdBjysdGOJxJeStY19Z2CjjAY9i14lCI",
     "summary": "I’m a Agile Technologist, Indie Hacker automate using Code and No-Code, 10+ years, worked for 18+ websites, some with million listings. Worldwide remotely on flexible hours.",
     "website": "http://wildiamond.free.fr",
-    "email": "anatole.hornn@gmail.com",
+    "email": "anatole.hornn@protonmail.com",
     "location": {
       "city": "75019 Paris",
       "countryCode": "FR"
@@ -80,14 +80,15 @@
       ]
     },
     {
-      "summary": "Ever Rocks is my consulting firm. I have already companies who wants to work with me but i preferred take time to create my company well before to start",
+      "summary": "Ever Rocks is my consulting firm.",
       "website": "https://www.linkedin.com/company/ever-rocks",
       "company": "Ever Rocks, 75019 Paris",
       "location": "75019 Paris",
       "position": "SENIOR JAVASCRIPT DEVELOPER freelancer",
       "startDate": "2018-08",
       "highlights": [
-        "Bnp Paribas Cib"
+        "services available for full stack dev javascript, react, redux, nodejs, serverless, aws, multi-cloud, growth hacking, product market fit, scrum master, coach agile.",
+        "client: Bnp Paribas Cib"
       ]
     },
     {
@@ -108,10 +109,10 @@
     {
       "highlights": [
         "technical pillar and scrum master with 6 teammates supported by activity dashboards",
-        "evolve flow between Marketing, Product, Tech teams, multiplied by 3 the velocity team, aims to cut delay with collaborative conception and estimation with teams, do participative members with sprint planning, story pointing, poker planning, refinement backlog, daily point 15minutes max, retrospective, push the creativity, eliminate all interferences",
+        "evolve and educate flow between Marketing, Product, Tech teams, multiplied by 3 the velocity team, aims to cut delay with collaborative conception and estimation with teams, do participative members with sprint planning, story pointing, poker planning, grooming, refinement backlog, daily scrum, timeboxing , retrospective, pair programming, dry, push the creativity, eliminate all interferences",
         "maintain and improve the all entire first version of the web-app",
         "place gitflow, yarn, angular4, lean startup practice, tech lunchs, evolve and warrantor of the scrum",
-        "with angular4, angular1.5, webpack, typescript, bootstrap, sass, pug, drupal7, git, jenkins"
+        "with angular4, angular1.5, webpack, typescript, gulp.js, bootstrap, sass, pug, drupal7, git, jenkins"
       ],
       "pinned": true,
       "summary": "Now, La Maison Saint-Gobain, is the brand of Saint-Gobain that support you in the realisation of your work house",
@@ -127,7 +128,7 @@
         "developed core pages, tracked all behavior in the app with mixpanel, implemented c.r.u.d, create migrations between database and models",
         "added gulp, stylus, ui-components practice on workflow",
         "maintained app on demand of customer succes team",
-        "with git, angular 1.x, backbone, npm, grunt, gulp, stylus, twitter bootstrap, laravel, composer, eloquent, php, mysql, wordpress"
+        "with git, angular 1.x, backbone, npm, grunt.js, gulp.js, stylus, twitter bootstrap, laravel, composer, eloquent, php, mysql, wordpress"
       ],
       "summary": "A single software to manage your reservations, click and collect, your website, customer reviews, your digital menus and your customer file",
       "website": "https://www.zenchef.com",
@@ -141,7 +142,7 @@
       "highlights": [
         "developed for 5 websites, all pages, components and modules with good practices of architecture, performance, sustainability on javascript, html, css",
         "tracked data with adobe omniture",
-        "with jenkins, yeoman, yo, bower, grunt, git, html, sass, javascript, macro-api"
+        "with jenkins, yeoman, yo, bower, grunt, git, html, sass, javascript, macro-api, seo"
       ],
       "summary": "Since more than 25 year, The SeLoger Group puts all its real estate expertise at the service of the French people, so that they can carry out all their real estate projects with peace of mind",
       "website": "https://www.groupeseloger.com/",
@@ -171,15 +172,15 @@
         "helped on designing",
         "created skins, icons, pictograms",
         "managed newsletters",
-        "with svn, html, css, photoshop, zend, php, mysql"
+        "with svn, html, css, jquery, photoshop, zend, php, mysql"
       ],
       "summary": "Dalenys, previously Rentabiliweb, is a specialist of audience monetization, B2B, B2C",
       "website": "http://dalenys.com",
       "company": "Dalenys, 92300 Levallois-Perret",
       "location": "92300 Levallois-Perret",
       "position": "WEB DEVELOPER, INTEGRATOR permanent",
-      "startDate": "2012-09",
-      "endDate": "2011-04"
+      "startDate": "2011-04",
+      "endDate": "2012-09"
     },
     {
       "highlights": [
@@ -241,7 +242,7 @@
         "react / next",
         "html, css, scss, stylus, pug, sass",
         "angular",
-        "yarn, npm, gulp, yo, bower, grunt, yeoman"
+        "yarn, npm, gulp.js, yo, bower, grunt.js, yeoman"
       ],
       "level": "Master",
       "name": "Frontend"
